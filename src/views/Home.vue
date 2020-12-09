@@ -375,6 +375,9 @@ nav {
 .about-wrapper {
   background: white;
   padding: 198px 0;
+  @media screen and (max-width: 1000px) {
+      padding: 70px 0;
+  }
   .wrapper {
     display: flex;
     .about {
@@ -386,6 +389,9 @@ nav {
         font-size: 100px;
         color: $bg-grey;
         letter-spacing: 2px;
+        @media screen and (max-width: 1000px) {
+          margin-top: 0;
+        }
       }
       p {
         color: $bg-grey;
