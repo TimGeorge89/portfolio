@@ -84,6 +84,26 @@
 
     <!-- PORTFOLIO -->
     <div id="projects-sec" class="portfolio">
+      <!-- RANDOM HEX -->
+      <div class="wrapper">
+          <div class="info">
+            <!-- project info -->
+            <h2>RANDOM HEX APP</h2>
+            <p>
+              Random hex an incredibly small and simple tool
+              that will always generate a random hexadecimal color value. 
+            </p>
+            <div class="button">
+              <a href="https://randomhexi.netlify.app" target="_blank" rel="noopener"><button>Visit</button></a>
+              <a href="https://github.com/TimGeorge89/random-hex" target="_blank" rel="noopener"><button>Github</button></a>
+            </div>
+          </div>
+          <!-- image -->
+          <div class="project-image">
+            <img src="/images/hex-tiny.jpeg" alt="" />
+          </div>
+      </div>
+
       <!-- NASA -->
       <div class="wrapper">
           <div class="info">
