@@ -90,7 +90,7 @@
             <!-- project info -->
             <h2>RANDOM HEX APP</h2>
             <p>
-              Random hex an incredibly small and simple tool
+              Random hex is an incredibly small and simple tool
               that will always generate a random hexadecimal color value. 
             </p>
             <div class="button">
