@@ -125,6 +125,25 @@
           </div>
       </div>
 
+      <!-- LCC&D -->
+      <div class="wrapper">
+          <div class="info">
+            <!-- project info -->
+            <h2>LCC&D</h2>
+            <p>
+              Concrete cutting and demolition site for a client. Maade with Wordpress and Elementor!
+            </p>
+            <div class="button">
+              <a href="https://lewisconcretecutting.com/" target="_blank" rel="noopener"><button>Visit</button></a>
+              <!-- <a href="https://github.com/TimGeorge89/nasa-search-app" target="_blank" rel="noopener"><button>Github</button></a> -->
+            </div>
+          </div>
+          <!-- image -->
+          <div class="project-image">
+            <img src="/images/lccd-tiny.jpeg" alt="" />
+          </div>
+      </div>
+
       <!-- EMPLOYEET -->
       <div class="wrapper">
           <div class="info">
@@ -144,6 +163,7 @@
             <img src="/images/employeet-tiny.jpeg" alt="" />
           </div>
       </div>
+
       <!-- WEATHER -->
       <div class="wrapper">
           <div class="info">
@@ -163,6 +183,7 @@
             <img src="/images/weather-tiny.jpeg" alt="" />
           </div>
       </div>
+
       <!-- JUNOS DRY CLEANING -->
       <div class="wrapper">
           <div class="info">
@@ -182,25 +203,6 @@
             <img src="/images/junos-tiny.jpeg" alt="" />
           </div>
       </div>
-      <!-- SHESHED -->
-      <!-- <div class="wrapper">
-          <div class="info">
-            
-            <h2>DANA'S SHESHED</h2>
-            <p>
-              A simple gellery and info page made for an artist that works out of her "SheShed"
-              referbishing old furniture and creating works of art on canvas. Made with Wordpress.
-            </p>
-            <div class="button">
-              <a href="https://sheshed.art/" target="_blank" rel="noopener"><button>Visit</button></a>
-              <a href="" target="_blank" rel="noopener"><button>Github</button></a>
-            </div>
-          </div>
-          
-          <div class="project-image">
-            <img src="/images/sheshed-tiny.jpeg" alt="" />
-          </div>
-      </div> -->
     </div>
   </div>
 </template>
