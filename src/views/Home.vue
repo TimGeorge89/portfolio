@@ -100,7 +100,7 @@
           </div>
           <!-- image -->
           <div class="project-image">
-            <img src="/images/hex-tiny.jpeg" alt="" />
+            <img src="/images/tiny-hex.jpeg" alt="" />
           </div>
       </div>
 
