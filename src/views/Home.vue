@@ -17,7 +17,7 @@
               <li><a @click="toggle()" href="#about-sec" v-smooth-scroll>About</a></li>
               <li><a @click="toggle()" href="#projects-sec" v-smooth-scroll>Projects</a></li>
               <li><a @click="toggle()" href="mailto:timdev89@gmail.com">Contact</a></li>
-              <li><a href="/Timothy-George.pdf" download>Resume</a></li>
+              <li><a href="/TimGeorgeResume.pdf" download>Resume</a></li>
             </ul>
           </div>
         </div>
@@ -64,12 +64,14 @@
         <div class="about">
           <h1>WHO?</h1>
           <p>
-            My name is Tim, I am a front end developer living in sunny South
-            Florida. I enjoy building clean, responsive web
-            experiences with up to date HTML5, CSS3, SASS, and
-            JavaScript. I am a people person and work well in team
-            oriented environments. And I'm excited to further my skills in this
-            evolving industry.
+            I am a Front End Developer living in South Florida. 
+            I enjoy building and creating clean and responsive web 
+            experiences with HTML5, CSS3, SCSS, and JavaScript 
+            functionality. I am a hardworking individual and take 
+            great pride in my ability to work well both independently 
+            and as a part of a cohesive team. I am excited to further 
+            my skills in this growing industry and look forward to new 
+            opportunities to expand on my current skill set.
           </p>
           <div class="button">
             <a href="#projects-sec" v-smooth-scroll><button>Sounds cool</button></a>
